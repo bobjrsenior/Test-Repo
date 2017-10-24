@@ -1,4 +1,4 @@
-# Test-Repo
+# UNCC Game Dev Repo
 
 THis is a test repositry
 
